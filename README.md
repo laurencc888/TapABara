@@ -1,4 +1,4 @@
-# TapABara
+# Tap-A-Bara
 
 Developed to combat the short attention spans of many children nowadays, Tap-A-Bara aims to keep kids engaged with this fun twist on Whac-A-Mole!
 
